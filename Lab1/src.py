@@ -42,11 +42,10 @@ def task_2():
         if res == None:
             break
 
-        print(res)
         startPos = res.span()[0]
         endPos = res.span()[1]
         numCount = 0
-        #"""
+
         while startPos != endPos:
             if file_text[startPos].isnumeric():
                 if numCount == 2:
@@ -54,7 +53,7 @@ def task_2():
                 else:
                     numCount = numCount + 1
             startPos = startPos + 1
-        #"""
+
         start = endPos
 
     print("Done.")
