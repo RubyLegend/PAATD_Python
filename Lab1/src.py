@@ -12,3 +12,7 @@ if __name__ == "__main__":
     find_res = text_splice.find('q')
     print("Position of 'q' in text: " + str(find_res if find_res != -1 else "Not found"))
     print("Upper case: " + text_splice.upper())
+    print("Replaced 'Slowly' with 'Fastly': " + text_splice.replace("Slowly", "Fastly"))
+    print("Split string by symbol ' ': ", end='')
+    print(text_splice.split(' '))
+    print("Join previously splitted strings: " + "".join(text_splice.split(' ')))
