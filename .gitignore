@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# .odt documents
+*.odt
+
+# nltk folder in Lab2
+Lab2/nltk_data/
