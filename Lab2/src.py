@@ -26,10 +26,7 @@ if __name__ == "__main__":
 
         print("Кількість речень в тексті: " + str(len(sent_tokenize(text))))
 
-        number = 1
-        for sent in sent_tokenize(text):
-            print(str(number) + ". " + sent, end="\n\n")
-            number += 1
+        print(sent_tokenize(text)[-1])
 
         pos_tags = dict()
         for item in nltk.pos_tag(word_tokenize(text)):
