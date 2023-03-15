@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-from sty import fg, rs
+from sty import fg
 import colorsys
 
 import re
