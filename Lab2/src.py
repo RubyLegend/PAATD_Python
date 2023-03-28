@@ -42,10 +42,10 @@ if __name__ == "__main__":
         for tag_index in range(len(list_pos_tags)):
             print(
                 h_to_color(tag_index / pos_tags_len) + list_pos_tags[tag_index] + fg.rs,
-                end='\t'
+                end="\t",
             )
 
-        print('\n')
+        print("\n")
         for word, tag in nltk.pos_tag(word_tokenize(text)):
             index = list_pos_tags.index(tag)
             print(h_to_color(index / pos_tags_len) + word + fg.rs + " ", end="")
