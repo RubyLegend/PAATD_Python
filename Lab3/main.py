@@ -80,8 +80,8 @@ plt.ylabel('Length')
 dendrogram(links)
 plt.show()
 
-# From dendrogram we can choose max distance = 1.5
-max_dist = 1.6
+# From dendrogram we can choose max distance = 1.6
+max_dist = 1.4
 
 cluster_labels = fcluster(links, max_dist, criterion='distance')
 
