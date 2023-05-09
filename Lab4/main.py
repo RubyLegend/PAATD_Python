@@ -54,7 +54,7 @@ train_corpus, test_corpus, train_label_nums, test_label_nums, \
                        test_size=0.3, random_state=0)
 # --------
 # Task 2 - Bag of Words
-cv = CountVectorizer(min_df=0., max_df=1.)
+cv = CountVectorizer(binary=False, min_df=0., max_df=1.)
 cv_train_matrix = cv.fit_transform(train_corpus)
 cv_test_matrix = cv.transform(test_corpus)
 vocab = cv.get_feature_names_out()
@@ -83,9 +83,9 @@ print("Accuracy of RandomForestClassifier: " + str(rfc_accuracy))
 # Task 6 - GridSearchCV
 param_grid = {
     'n_estimators': [100, 200, 500],
-    'max_depth': [10, 20, 30, None],
-    'min_samples_split': [2, 5, 10],
-    'min_samples_leaf': [1, 2, 4],
+    'max_depth': [10, 20, 30, 50],
+    'min_samples_split': [2, 5, 10, 20],
+    # 'min_samples_leaf': [1, 2, 4],
     # 'bootstrap': [True, False],
     'warm_start': [True]
 }
