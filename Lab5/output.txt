@@ -1,0 +1,91 @@
+Do you want to load already prepared corpus? (Y/N) FrozenPhrases<86 phrases, min_count=10, threshold=20>
+Dictionary<11397 unique tokens: ['amazon', 'amp', 'analyst_calls', 'apple', 'biggest']...>
+Topic #1:
+0.010*"announces" + 0.009*"new" + 0.008*"health" + 0.008*"partners" + 0.007*"power" + 0.006*"gets" + 0.006*"currency" + 0.006*"cloud" + 0.005*"energy" + 0.005*"systems" + 0.005*"data" + 0.005*"technology" + 0.005*"launches" + 0.005*"access" + 0.004*"gas" + 0.004*"capital" + 0.004*"test" + 0.004*"additional" + 0.004*"partnership" + 0.003*"solutions"
+Topic #2:
+0.017*"euro" + 0.010*"parity" + 0.008*"us_dollar" + 0.006*"first_time" + 0.006*"new" + 0.006*"announces" + 0.006*"receives" + 0.004*"us" + 0.004*"first" + 0.004*"month" + 0.004*"slow_hiring" + 0.004*"investment" + 0.004*"employees" + 0.004*"european" + 0.004*"july" + 0.004*"management" + 0.004*"spending" + 0.004*"amp" + 0.004*"agreement" + 0.003*"launches"
+Topic #3:
+0.012*"says" + 0.010*"new" + 0.008*"one" + 0.006*"per_share" + 0.006*"offering" + 0.006*"twitter" + 0.005*"bankruptcy" + 0.005*"two" + 0.005*"airbus" + 0.005*"deal" + 0.004*"musk" + 0.004*"us" + 0.004*"files" + 0.004*"ahead" + 0.004*"ceo" + 0.004*"talks" + 0.004*"largest" + 0.004*"tesla" + 0.004*"celsius" + 0.004*"airlines"
+Topic #4:
+0.010*"announces" + 0.007*"first" + 0.007*"study" + 0.007*"boeing" + 0.007*"regulatory_announcement" + 0.007*"new" + 0.005*"global" + 0.005*"first_trust" + 0.005*"order" + 0.004*"phase" + 0.004*"last" + 0.004*"plc_uk" + 0.004*"us" + 0.004*"commercial" + 0.004*"august" + 0.004*"launches" + 0.004*"max" + 0.003*"form" + 0.003*"battery" + 0.003*"jets"
+Topic #5:
+0.018*"finance" + 0.014*"stockmarket" + 0.014*"business" + 0.013*"economy" + 0.013*"stocks" + 0.013*"markets" + 0.011*"trading" + 0.009*"announces" + 0.008*"fda" + 0.006*"q" + 0.005*"staff" + 0.005*"stock" + 0.005*"letter" + 0.005*"shares" + 0.005*"market" + 0.005*"us" + 0.004*"phase" + 0.004*"uk" + 0.004*"approval" + 0.004*"treatment"
+Topic #6:
+0.012*"new" + 0.006*"launches" + 0.005*"said" + 0.005*"year" + 0.004*"says" + 0.004*"top" + 0.004*"jobs" + 0.004*"report" + 0.004*"amazon" + 0.004*"sources" + 0.004*"giant" + 0.004*"cut" + 0.004*"watch" + 0.003*"may" + 0.003*"market" + 0.003*"strike" + 0.003*"financial" + 0.003*"international" + 0.003*"platform" + 0.003*"travel"
+Topic #7:
+0.015*"declares_dividend" + 0.006*"hiring" + 0.006*"business" + 0.005*"ge" + 0.005*"solutions" + 0.005*"apple" + 0.004*"vs" + 0.004*"raise" + 0.004*"companies" + 0.004*"technology" + 0.004*"need" + 0.004*"pro" + 0.004*"ceo" + 0.004*"investors" + 0.004*"tech" + 0.004*"growth" + 0.004*"central" + 0.003*"price" + 0.003*"europe" + 0.003*"partners"
+Topic #8:
+0.013*"fund" + 0.009*"capital" + 0.008*"q" + 0.007*"investing" + 0.007*"back" + 0.006*"tesla" + 0.006*"latest" + 0.006*"production" + 0.006*"million" + 0.005*"distribution" + 0.005*"investor" + 0.005*"uk_regulatory" + 0.005*"bitcoin" + 0.005*"worlds" + 0.005*"invesco" + 0.005*"declares_monthly" + 0.005*"announcement_form" + 0.005*"management" + 0.005*"billion" + 0.005*"meta"
+Topic #9:
+0.025*"dividend" + 0.009*"new" + 0.007*"share" + 0.007*"announces" + 0.006*"deal" + 0.005*"best" + 0.005*"cash" + 0.005*"declares_quarterly" + 0.005*"trust" + 0.005*"close" + 0.005*"disney" + 0.004*"firm" + 0.004*"says" + 0.004*"quarterly_dividend" + 0.004*"billion" + 0.004*"higher" + 0.004*"th" + 0.004*"board" + 0.004*"increases_quarterly" + 0.004*"carrier"
+Topic #10:
+0.015*"dollar" + 0.008*"monthly_distribution" + 0.007*"etf_declares" + 0.007*"ev" + 0.006*"new" + 0.006*"high" + 0.005*"inflation" + 0.005*"us" + 0.004*"industry" + 0.004*"invesco_bulletshares" + 0.004*"record" + 0.004*"contract" + 0.004*"international" + 0.004*"funds" + 0.004*"plans" + 0.004*"half" + 0.004*"global" + 0.004*"low" + 0.004*"outlook" + 0.004*"corporate_bond"
+Coherence: -14.329578850077207
+Avg. Coherence Score (CV): 0.4707803355354068
+Avg. Coherence Score (U-Mass): -14.329578850077207
+Model Perplexity: -9.06432579100922
+Topic #1:
+0.815*"new" + 0.292*"announces" + 0.101*"us" + 0.099*"launches" + 0.089*"says" + 0.082*"health" + 0.072*"business" + 0.067*"global" + 0.063*"first" + 0.062*"billion" + 0.060*"company" + 0.057*"partnership" + 0.056*"technology" + 0.056*"growth" + 0.055*"energy" + 0.053*"data" + 0.052*"amp" + 0.052*"platform" + 0.051*"agreement" + 0.044*"watch"
+Topic #2:
+-0.777*"announces" + 0.440*"new" + -0.128*"us" + -0.075*"partnership" + -0.073*"phase" + -0.071*"first" + -0.068*"fund" + -0.065*"dividend" + -0.064*"capital" + -0.061*"agreement" + -0.060*"therapeutics" + -0.057*"health" + -0.055*"share" + -0.055*"group" + -0.052*"says" + -0.051*"data" + -0.050*"million" + -0.049*"q" + -0.049*"inc" + -0.048*"results"
+Topic #3:
+-0.390*"announces" + 0.365*"says" + -0.223*"new" + 0.207*"us" + 0.172*"euro" + 0.146*"business" + 0.144*"stocks" + 0.140*"markets" + 0.140*"trading" + 0.134*"finance" + 0.134*"economy" + 0.120*"stockmarket" + 0.120*"dollar" + 0.119*"q" + 0.118*"twitter" + 0.109*"parity" + 0.104*"watch" + 0.098*"one" + 0.097*"global" + 0.096*"year"
+Topic #4:
+0.417*"says" + -0.304*"finance" + -0.277*"markets" + -0.262*"trading" + -0.259*"stocks" + -0.257*"stockmarket" + -0.257*"economy" + -0.227*"business" + -0.217*"q" + -0.176*"investing" + 0.147*"us" + -0.129*"fund" + 0.107*"twitter" + 0.091*"deal" + -0.083*"investor" + -0.081*"letter" + 0.074*"watch" + -0.072*"commentary" + -0.071*"slideshow" + 0.067*"ceo"
+Topic #5:
+-0.552*"euro" + -0.365*"parity" + -0.301*"dollar" + 0.214*"says" + -0.212*"us" + -0.197*"us_dollar" + -0.187*"first_time" + 0.113*"business" + -0.106*"health" + 0.106*"twitter" + 0.105*"q" + -0.104*"currency" + -0.085*"decades" + -0.084*"since" + 0.081*"stockmarket" + 0.077*"finance" + 0.075*"billion" + -0.068*"closer" + 0.067*"deal" + 0.065*"fund"
+Topic #6:
+-0.550*"launches" + -0.275*"health" + 0.250*"says" + -0.176*"platform" + 0.176*"announces" + -0.175*"global" + 0.133*"new" + -0.122*"management" + 0.115*"euro" + -0.109*"fund" + -0.106*"uk_regulatory" + 0.100*"economy" + 0.100*"stocks" + -0.098*"capital" + 0.096*"business" + -0.095*"solutions" + 0.088*"finance" + 0.086*"markets" + -0.086*"plc" + 0.085*"stockmarket"
+Topic #7:
+-0.619*"health" + 0.291*"uk_regulatory" + 0.244*"dividend" + 0.167*"plc" + 0.158*"fund" + 0.140*"announcement_form" + 0.131*"capital" + 0.123*"variable_rate" + -0.123*"behavioral" + 0.123*"fix" + 0.122*"announcement_frn" + -0.111*"us" + 0.108*"management" + 0.108*"per_share" + 0.106*"energy" + 0.104*"euro" + 0.103*"share" + -0.093*"solutions" + 0.087*"bank" + -0.086*"partnership"
+Topic #8:
+0.561*"launches" + -0.366*"health" + -0.237*"uk_regulatory" + -0.185*"dividend" + 0.167*"platform" + -0.130*"energy" + -0.122*"plc" + -0.115*"fix" + -0.115*"variable_rate" + -0.114*"announcement_frn" + -0.110*"fund" + -0.102*"us" + -0.101*"announcement_form" + 0.098*"data" + -0.094*"share" + 0.094*"announces" + 0.091*"first" + 0.091*"says" + -0.087*"per_share" + 0.084*"phase"
+Topic #9:
+0.331*"says" + -0.269*"watch" + 0.244*"dividend" + -0.192*"sas" + -0.192*"billion" + -0.186*"deal" + 0.185*"health" + -0.174*"strike" + 0.169*"meta" + -0.152*"scandinavian" + 0.147*"facebook" + -0.141*"day" + -0.140*"said" + -0.126*"pilot" + -0.115*"carrier" + 0.109*"users" + 0.100*"uk_regulatory" + -0.099*"unions" + 0.090*"per_share" + 0.089*"share"
+Topic #10:
+-0.250*"latest" + 0.246*"says" + -0.225*"meta" + -0.211*"companys" + -0.208*"facebook" + -0.200*"accounts" + -0.192*"users" + -0.188*"network" + -0.182*"sharing" + -0.181*"attempt" + -0.180*"social" + -0.179*"multiple" + -0.178*"posting" + -0.178*"letting" + -0.178*"encourage" + -0.178*"profiles" + -0.171*"make" + -0.164*"testing" + -0.161*"wont" + -0.158*"change"
+Avg. Coherence Score (CV): 0.35625456322368204
+Avg. Coherence Score (U-Mass): -10.880289386702655
+Model Perplexity: N/A
+LSI sklearn:
+                                                                                                                      Terms per Topic
+Topic1                 uk, regulatory, announcement, uk regulatory, regulatory announcement, plc, form, announcement form, new, asset
+Topic2                      new, declares, dividend, announces, declares dividend, distribution, monthly, share, us, declares monthly
+Topic3   new, declares, dividend, declares dividend, distribution, monthly, declares monthly, etf, etf declares, monthly distribution
+Topic4                                                     announces, new, us, first, dollar, euro, declares, parity, us dollar, time
+Topic5        dividend, announces, us, distribution, monthly, declares dividend, etf, declares monthly, monthly distribution, invesco
+Topic6                     announces, dividend, us, distribution, dollar, declares dividend, euro, monthly, monthly distribution, etf
+Topic7                                                                  us, says, business, musk, dollar, twitter, euro, elon, new, q
+Topic8                                                              first, share, us, trust, global, first trust, rate, fix, per, frn
+Topic9                                      share, per, per share, declares dividend, rate, business, fix, common, frn, variable rate
+Topic10                                                  business, says, musk, stocks, q, trading, finance, twitter, markets, economy
+LDA sklearn:
+                                                                                                                            Terms per Topic
+Topic1   dividend, declares, declares dividend, distribution, monthly, quarterly, etf, declares monthly, monthly distribution, etf declares
+Topic2                                                             announces, new, health, amazon, prime, day, us, price, solutions, target
+Topic3                                             business, q, stocks, trading, markets, finance, capital, economy, stockmarket, investing
+Topic4                                                                says, netflix, boeing, could, ceo, named, analyst, supply, may, order
+Topic5                                                                  plans, year, report, receives, apple, hiring, fda, amp, covid, next
+Topic6                                       expands, group, million, investment, partners, global, billion, raises, partnership, financial
+Topic7                                                             share, stock, energy, second, ev, offering, crypto, quarter, common, per
+Topic8                                                                 dollar, us, euro, twitter, first, musk, phase, trial, clinical, elon
+Topic9                                               new, launches, agreement, technology, electric, platform, contract, partner, us, signs
+Topic10                     uk, regulatory, announcement, uk regulatory, regulatory announcement, plc, form, asset, announcement form, rate
+LDA sklearn perplexity: 306.577709211938
+LDA sklearn score: -108898.46337732146
+NMF sklearn:
+                                                                                                             Terms per Topic
+Topic1         uk, regulatory, announcement, uk regulatory, regulatory announcement, plc, form, announcement form, frn, rate
+Topic2                                new, york, new york, launches, health, expands, technology, billion, contract, company
+Topic3            dividend, declares, declares dividend, quarterly, quarterly dividend, inc, financial, trust, capital, cash
+Topic4                                              us, dollar, euro, parity, us dollar, first, time, first time, since, two
+Topic5   distribution, monthly, declares monthly, declares, etf, monthly distribution, etf declares, invesco, bond, bond etf
+Topic6                         announces, partnership, clinical, phase, health, therapeutics, trial, agreement, inc, million
+Topic7                                                 says, musk, twitter, elon, elon musk, year, deal, tesla, ceo, billion
+Topic8                      first, global, asset, net, net asset, values, asset values, announcement net, trust, first trust
+Topic9                            share, per, per share, common, quarterly, stock, fund, dividend, quarterly dividend, trust
+Topic10                                 business, q, stocks, trading, finance, markets, economy, stockmarket, investing, one
+Gutenberg trigrams:
+Top 10 raw frequency: [(',"', 'said', 'the'), (',"', 'said', 'Syme'), (',"', 'he', 'said'), ('Dr', '.', 'Bull'), ('he', 'said', ','), ('don', "'", 't'), ('said', 'Syme', ','), (',', '"', 'I'), (',', 'and', 'he'), (',', 'and', 'the')]
+Top 10 PMI: [('217', 'Peabody', 'Buildings'), ('Chesterton', '1908', ']'), ('Edmund', 'Clerihew', 'Bentley'), ('Green', 'Carnation', 'withered'), ('Mental', 'lucidity', 'fulfils'), ('Secret', 'Police', 'Service'), ('WHO', 'WAS', 'THURSDAY'), ('chevron', 'gules', 'charged'), ('involution', 'functioned', 'eugenically'), ('nameless', 'psychological', 'influences')]
+Top 10 Likelihood Ratio: [(',"', 'said', 'Syme'), (',"', 'said', 'the'), ('Syme', "'", 's'), ('man', "'", 's'), ('Marquis', "'", 's'), ('That', "'", 's'), ('Paul', "'", 's'), ('Sunday', "'", 's'), ('Gregory', "'", 's'), ("'", 's', 'got')]
