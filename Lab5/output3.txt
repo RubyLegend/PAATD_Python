@@ -1,0 +1,35 @@
+Do you want to load already prepared corpus? (Y/N) FrozenPhrases<574 phrases, min_count=10, threshold=20>
+Dictionary<23757 unique tokens: ['amazon', 'amp', 'analyst_calls', 'apple', 'biggest']...>
+LDA Gensim:
+Topic #1:
+0.017*"cpi" + 0.014*"volume" + 0.011*"meeting" + 0.011*"sa" + 0.010*"national" + 0.010*"house" + 0.010*"concerns" + 0.009*"spy_spx" + 0.009*"stop" + 0.008*"shows" + 0.008*"johnson" + 0.007*"made" + 0.007*"already" + 0.007*"remain" + 0.007*"consumers" + 0.007*"warns" + 0.007*"federal" + 0.006*"trying" + 0.006*"aug" + 0.006*"focus"
+Topic #2:
+0.041*"pre" + 0.026*"higher" + 0.016*"ahead" + 0.013*"low" + 0.012*"si" + 0.011*"index" + 0.010*"chinese" + 0.009*"gap" + 0.009*"supply" + 0.009*"rally" + 0.009*"break" + 0.008*"calls" + 0.008*"buying" + 0.007*"holding" + 0.007*"become" + 0.007*"nations" + 0.007*"resistance" + 0.006*"daily" + 0.006*"money" + 0.006*"past"
+Topic #3:
+0.027*"stocks" + 0.023*"markets" + 0.020*"economy" + 0.020*"business" + 0.019*"finance" + 0.017*"investing" + 0.013*"stock" + 0.011*"market" + 0.010*"shares" + 0.008*"buy" + 0.008*"company" + 0.008*"investors" + 0.007*"could" + 0.007*"earnings" + 0.007*"prices" + 0.007*"growth" + 0.007*"back" + 0.007*"china" + 0.007*"uk" + 0.006*"report"
+Topic #4:
+0.017*"reports" + 0.015*"strong" + 0.015*"chinas" + 0.012*"results" + 0.010*"close" + 0.010*"bonds" + 0.010*"short" + 0.009*"b" + 0.008*"holdings" + 0.007*"way" + 0.006*"bond" + 0.006*"policy" + 0.006*"bottom" + 0.006*"expectations" + 0.006*"mortgage" + 0.006*"nflx" + 0.005*"current" + 0.005*"countrys" + 0.005*"puts" + 0.005*"net"
+Topic #5:
+0.017*"since" + 0.014*"spy" + 0.012*"crypto" + 0.009*"rising" + 0.008*"point" + 0.008*"well" + 0.007*"costs" + 0.007*"qqq" + 0.007*"fuel" + 0.007*"august" + 0.007*"ecb" + 0.007*"president_biden" + 0.007*"breakingviews" + 0.006*"tuesday" + 0.006*"euro" + 0.006*"rishi_sunak" + 0.006*"draghi" + 0.006*"white_house" + 0.006*"india" + 0.006*"esf"
+Topic #6:
+0.024*"president" + 0.013*"rate" + 0.012*"appoints" + 0.012*"rates" + 0.010*"fed" + 0.010*"crisis" + 0.009*"nasdaq" + 0.009*"points" + 0.008*"dont" + 0.007*"earlier" + 0.007*"political" + 0.007*"stake" + 0.007*"put" + 0.007*"nept" + 0.007*"need" + 0.006*"bid" + 0.006*"sold" + 0.005*"fight" + 0.005*"squeeze" + 0.005*"bounce"
+Topic #7:
+0.023*"announces" + 0.014*"amp" + 0.014*"trade" + 0.013*"million" + 0.012*"inc" + 0.008*"bill" + 0.008*"firm" + 0.008*"likely" + 0.007*"eu" + 0.007*"months" + 0.007*"health" + 0.007*"dollar" + 0.007*"partners" + 0.006*"acquisition" + 0.006*"agreement" + 0.006*"leader" + 0.006*"senate" + 0.006*"cost" + 0.005*"digital" + 0.005*"lead"
+Topic #8:
+0.041*"us" + 0.035*"trading" + 0.024*"inflation" + 0.024*"stockmarket" + 0.015*"year" + 0.014*"may" + 0.013*"june" + 0.012*"energy" + 0.012*"says" + 0.011*"high" + 0.010*"billion" + 0.010*"according" + 0.010*"next" + 0.009*"said" + 0.009*"day" + 0.008*"support" + 0.008*"price" + 0.008*"debt" + 0.007*"time" + 0.007*"key"
+Topic #9:
+0.042*"new" + 0.019*"global" + 0.011*"economic" + 0.010*"open" + 0.008*"european" + 0.008*"power" + 0.007*"credit" + 0.007*"people" + 0.007*"news" + 0.007*"services" + 0.007*"officer" + 0.006*"industry" + 0.006*"long" + 0.006*"europe" + 0.006*"second" + 0.006*"make" + 0.006*"state" + 0.006*"country" + 0.006*"prev" + 0.005*"go"
+Topic #10:
+0.021*"government" + 0.013*"prime_minister" + 0.013*"last" + 0.012*"economy_stockmarket" + 0.012*"spy_qqq" + 0.012*"guidance" + 0.010*"green" + 0.007*"hold" + 0.007*"court" + 0.006*"saudi_arabia" + 0.006*"election" + 0.006*"japan" + 0.006*"dia_spx" + 0.006*"red" + 0.005*"natural_gas" + 0.005*"italys" + 0.005*"expect" + 0.005*"compq_djia" + 0.005*"meet" + 0.005*"hot"
+Coherence: -12.973130077975323
+Avg. Coherence Score (CV): 0.46245879325437916
+Avg. Coherence Score (U-Mass): -12.973130077975323
+Model Perplexity: -10.00772374278859
+Do you want to load already prepared corpus? (Y/N) [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+[-4.197212753317936, -4.399437544135994, -5.612731257340049, -8.183914223300842, -10.2650781363116, -10.736559614639928, -11.106826676002369, -10.392253231313301, -12.30008504540332, -12.973130077975323, -11.869918124751326, -12.632503625873987, -12.358675068770244, -11.789734455871468, -12.99213642625416, -13.50172047720238, -13.19710990086702, -12.832014206005596, -13.171256716036988, -13.171010940496322]
+[0.2878849710656254, 0.34858587424225995, 0.3177355155022696, 0.3414336581735825, 0.39503505396958427, 0.4111593867341233, 0.4051744632266407, 0.3872694070746636, 0.42611897403642174, 0.46245879325437916, 0.4163911628432528, 0.44192903160735075, 0.4259473690137853, 0.4127013409105927, 0.4630693582067981, 0.45589323972344575, 0.450474470186558, 0.4492931533666931, 0.45823259648465064, 0.43898705960095813]
+[-4.197212753317936, -4.399437544135994, -5.612731257340049, -8.183914223300842, -10.265078136311601, -10.736559614639928, -11.106826676002369, -10.392253231313301, -12.300085045403323, -12.973130077975323, -11.869918124751326, -12.632503625873985, -12.358675068770243, -11.789734455871468, -12.992136426254165, -13.50172047720238, -13.19710990086702, -12.832014206005598, -13.171256716036988, -13.171010940496322]
+Gutenberg trigrams:
+Top 10 raw frequency: [('said', 'dr', 'bull'), ('professor', 'de', 'worms'), ('well', 'said', 'syme'), ('yes', 'said', 'syme'), ('could', 'almost', 'fancy'), ('de', 'st', 'eustache'), ('man', 'dark', 'room'), ('said', 'syme', 'seriously'), ('asked', 'syme', 'sort'), ('blue', 'card', 'pocket')]
+Top 10 PMI: [('acquainted', 'secretarial', 'duties'), ('allies', 'providential', 'stoppage'), ('archangel', 'judging', 'justly'), ('argent', 'chevron', 'gules'), ('arts', 'occasionally', 'political'), ('barnum', 'freak', 'physically'), ('bellegarde', 'baron', 'zumpt'), ('bite', 'slice', 'bread'), ('blasphemy', 'blend', 'angel'), ('bludgeon', 'fist', 'fisherman')]
+Top 10 Likelihood Ratio: [('said', 'dr', 'bull'), ('dr', 'bull', 'desperately'), ('dr', 'bull', 'smiled'), ('countenance', 'dr', 'bull'), ('dr', 'bull', 'bubbling'), ('dr', 'bull', 'precision'), ('dr', 'bull', 'sphinx'), ('wheeler', 'dr', 'bull'), ('dr', 'bull', 'suddenly'), ('dr', 'bull', 'adamantine')]
