@@ -1,0 +1,145 @@
+[
+  {
+    "utterance": "I want to open a new bank account",
+    "entities": [
+      {
+        "start": 10,
+        "end": 14
+      },
+      {
+        "start": 26,
+        "end": 33
+      }
+    ],
+    "intent": "open_account"
+  },
+  {
+    "utterance": "I would like to open a bank account",
+    "entities": [
+      {
+        "start": 16,
+        "end": 20
+      },
+      {
+        "start": 28,
+        "end": 35
+      }
+    ],
+    "intent": "open_account"
+  },
+  {
+    "utterance": "I'm interested in opening a new account",
+    "entities": [
+      {
+        "start": 18,
+        "end": 39
+      }
+    ],
+    "intent": "open_account"
+  },
+  {
+    "utterance": "I want to open a savings account",
+    "entities": [
+      {
+        "start": 10,
+        "end": 14
+      },
+      {
+        "start": 25,
+        "end": 32
+      }
+    ],
+    "intent": "open_account"
+  },
+  {
+    "utterance": "I'm thinking of opening a bank account or a checking account",
+    "entities": [
+      {
+        "start": 16,
+        "end": 38
+      },
+      {
+        "start": 44,
+        "end": 60
+      }
+    ],
+    "intent": "open_account"
+  },
+
+  {
+    "utterance": "What are the interest rates on your savings accounts?",
+    "entities": [
+      {
+        "start": 13,
+        "end": 27
+      }
+    ],
+    "intent": "interest_rates"
+  },
+  {
+    "utterance": "I forgot my online banking password",
+    "entities": [
+      {
+        "start": 2,
+        "end": 35
+      }
+    ],
+    "intent": "password_reset"
+  },
+  {
+    "utterance": "I forgot my password and need to reset it",
+    "entities": [
+      {
+        "start": 2,
+        "end": 20
+      }
+    ],
+    "intent": "password_reset"
+  },
+  {
+    "utterance": "I can't remember my login credentials. How can I reset my password?",
+    "entities": [
+      {
+        "start": 2,
+        "end": 7
+      },
+      {
+        "start": 8,
+        "end": 16
+      },
+      {
+        "start": 20,
+        "end": 37
+      },
+      {
+        "start": 49,
+        "end": 66
+      }
+    ],
+    "intent": "password_reset"
+  },
+  {
+    "utterance": "I need assistance with resetting my bank account password",
+    "entities": [
+      {
+        "start": 23,
+        "end": 32
+      },
+      {
+        "start": 49,
+        "end": 57
+      }
+    ],
+    "intent": "password_reset"
+  },
+  {
+    "utterance": "How can I apply for a loan?",
+    "entities": [
+      {
+        "start": 10,
+        "end": 27
+      }
+    ],
+    "intent": "loan_application"
+  }
+]
