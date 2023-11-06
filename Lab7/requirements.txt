@@ -38,5 +38,5 @@ tqdm==4.65.0
 typer==0.7.0
 typing_extensions==4.6.3
 uk-core-news-sm @ https://github.com/explosion/spacy-models/releases/download/uk_core_news_sm-3.5.0/uk_core_news_sm-3.5.0-py3-none-any.whl#sha256=a93689b18910b8938f34a8b90b40ba1ef0c503053a6ae60e21120f2781e1ba32
-urllib3==2.0.2
+urllib3==2.0.7
 wasabi==1.1.1
